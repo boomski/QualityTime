@@ -3,14 +3,14 @@
 <item>
 <title>MOVIES</title>
 <link>ignoreme</link>
-<externallink></externallink>
-<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/boomski/QualityTime/main/Movies/Films</externallink>
+<fanart>https://i.imgur.com/MzASKpP.jpg</fanart>
 </item>
 <item>
 <title>SERIES</title>
 <link>ignoreme</link>
 <externallink>https://raw.githubusercontent.com/boomski/QualityTime/main/Shows/Series</externallink>
-<fanart></fanart>
+<fanart>https://i.imgur.com/C1k4J2W.jpg</fanart>
 </item>
 </items>
 
