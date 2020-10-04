@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items> 
 <item>
+<title>ADD TO LIBRARY</title>
+<link>ignoreme</link>
+<externallink>https://raw.githubusercontent.com/boomski/QualityTime/main/Movies/ADD-TO-LIBRARY</externallink>
+<fanart>https://i.imgur.com/uh7Q6T8.png</fanart>
+</item>  
+<item>
 <title>NL</title>
 <link>ignoreme</link>
 <externallink>https://raw.githubusercontent.com/boomski/QualityTime/main/Movies/NL</externallink>
