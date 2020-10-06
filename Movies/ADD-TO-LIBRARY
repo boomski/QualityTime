@@ -44,5 +44,10 @@
 <title>Francofonia (2015).rus.nosub</title> 20159
 <urlsolve>https://my.mail.ru/video/embed/9131907362506932264</urlsolve>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/cxAksq368rlAzwghu2wD9UcEP8z.jpg</thumbnail>
+</item> 
+<item>
+<title>Cloud Atlas (2012).nld.lbry</title>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/nTuBst6meMjjSX6KYqd4oPhYHYy.jpg</thumbnail>
+<link>https://cdn.lbryplayer.xyz/api/v3/streams/free/83452/6b23b173bf1d7288d07fd2e33cfb9ad40923684b/200e54</link>
 </item>  
 </items> 
