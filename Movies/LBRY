@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
-<item>
-<title>Journal 64 (2018).eng.lbry</title>
-<thumbnail>https://i.imgur.com/3tkmBDR.jpg</thumbnail>
-<link>https://cdn.lbryplayer.xyz/api/v2/streams/free/479226/acc2c54383ffc2c0fe6e222b38295aa95baf93db</link>
-</item>   
+  
 <item>
 <title>Breakthrough (2005).eng.lbry</title>
 <thumbnail>https://i.imgur.com/gCNKUVa.jpg</thumbnail>
@@ -44,11 +40,7 @@
 <link>https://cdn.lbryplayer.xyz/api/v3/streams/free/517412/8eeaed842ee3c8f196fc2108bbcdb46c0fdb7466/86d9f4</link>
 </item>   
   
-<item>
-<title>Play or Die (2019).nld.lbry</title>
-<thumbnail>https://i.imgur.com/fcCod6P.jpg</thumbnail>
-<link>https://cdn.lbryplayer.xyz/api/v2/streams/free/595216/d08d3a1b5c800624084218ee006f9e154740e1f4</link>
-</item>     
+    
 <item>
 <title>The Next Three Days (2010).nld.lbry</title> 
 <thumbnail>https://i.imgur.com/othvQ75.jpg</thumbnail>
