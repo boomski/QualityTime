@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 <item>
+<title>TEST</title> 3083008
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/w8sBqGSko8OBsKbK6z7gPvRfp7F.jpg</thumbnail>
+<link>https://my.mail.ru/video/embed/9155267994572554314</link>
+</item>  
+<item>
 <title>The Whistlers (2020).eng.LBRY</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/i9UIjhnD5QNyhXrA0nZMhRpod5b.jpg</thumbnail>
 <link>https://eu.lbryplayer.xyz/content/claims/504582/9f50869a657788e8d0b95b697124b975511471bd/stream</link>
