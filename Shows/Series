@@ -1,10 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items> 
 <item>
+<title>Borges</title>
+<link>ignoreme</link>
+<externallink>https://raw.githubusercontent.com/boomski/QualityTime/main/Shows/LBRY/Borges</externallink>
+<thumbnail>https://artworks.thetvdb.com/banners/posters/5cac27314aed0.jpg</thumbnail>  
+</item>  
+ 
+<item>
 <title>La Piovra</title>
 <link>ignoreme</link>
 <externallink>https://raw.githubusercontent.com/boomski/QualityTime/main/Shows/LBRY/La%20Piovra</externallink>
-<thumbnail>https://artworks.thetvdb.com/banners/posters/82709-5.jpg</thumbnail>  
+<thumbnail>https://i.imgur.com/5KaR3sV.jpg</thumbnail>  
+</item> 
+ 
+<item>
+<title>Epidemiya</title>
+<link>ignoreme</link>
+<externallink>https://raw.githubusercontent.com/boomski/QualityTime/main/Shows/LBRY/Epidemiya</externallink>
+<thumbnail>https://i.imgur.com/Q4DTkP0.jpg</thumbnail>  
 </item> 
  
 <item>
@@ -20,13 +34,6 @@
 <externallink>https://raw.githubusercontent.com/boomski/QualityTime/main/Shows/LBRY/Senke%20Nad%20Balkanom</externallink>
 <thumbnail>https://i.imgur.com/bMJbQXq.jpg</thumbnail>  
 </item>  
- 
-<item>
-<title>Borges</title>
-<link>ignoreme</link>
-<externallink>https://raw.githubusercontent.com/boomski/QualityTime/main/Shows/LBRY/Borges</externallink>
-<thumbnail>https://artworks.thetvdb.com/banners/posters/5cac27314aed0.jpg</thumbnail>  
-</item> 
  
 <item>
 <title>Profitörerna</title>
@@ -307,14 +314,7 @@
 <externallink>https://raw.githubusercontent.com/boomski/QualityTime/main/Shows/MAIL.RU/The%20Typist</externallink>
 <thumbnail>https://i.imgur.com/aV1oZNO.jpg</thumbnail>  
 </item>  
- 
-<item>
-<title>Kiekenkotkwis</title>
-<link>ignoreme</link>
-<externallink>https://raw.githubusercontent.com/boomski/QualityTime/main/Shows/MAIL.RU/Kiekenkotkwis</externallink>
-<thumbnail>https://artworks.thetvdb.com/banners/series/385615/posters/5f1444d2c74c7.jpg</thumbnail>  
-</item> 
- 
+  
 <item>
 <title>VRT Documentaires</title>
 <link>ignoreme</link>
