@@ -19,7 +19,56 @@
 <link>ignoreme</link>
 <externallink>https://raw.githubusercontent.com/boomski/QualityTime/main/Shows/LBRY/Epidemiya</externallink>
 <thumbnail>https://i.imgur.com/Q4DTkP0.jpg</thumbnail>  
+</item>
+ 
+<item>
+<title>Maigret (1991)</title>
+<link>ignoreme</link>
+<externallink></externallink>
+<thumbnail>https://artworks.thetvdb.com/banners/posters/85167-2.jpg</thumbnail>  
+</item>  
+ 
+<item>
+<title>Klondike (2014)</title>
+<link>ignoreme</link>
+<externallink></externallink>
+<thumbnail>https://i.imgur.com/lkKXg0e.jpg</thumbnail>  
+</item>  
+ 
+<item>
+<title>Callboys</title>
+<link>ignoreme</link>  
+<externallink></externallink>
+<fanart>https://i.imgur.com/nrEtPaz.jpg</fanart>
+</item>  
+ 
+<item>
+<title>Savages</title>
+<link>ignoreme</link>
+<externallink>https://raw.githubusercontent.com/boomski/QualityTime/main/Shows/LBRY/Savages</externallink>
+<thumbnail>https://artworks.thetvdb.com/banners/posters/5d8938a2dacc5.jpg</thumbnail>  
 </item> 
+ 
+<item>
+<title>The Typist</title>
+<link>ignoreme</link>
+<externallink>https://raw.githubusercontent.com/boomski/QualityTime/main/Shows/LBRY/The%20Typist</externallink>
+<thumbnail>https://i.imgur.com/aV1oZNO.jpg</thumbnail>  
+</item> 
+ 
+<item>
+<title>De Partizanen</title>
+<link>ignoreme</link>  
+<externallink>https://raw.githubusercontent.com/boomski/QualityTime/main/Shows/LBRY/De%20Partizanen</externallink>
+<fanart>https://i.imgur.com/fuWjbbi.jpg</fanart>
+</item> 
+ 
+<item>
+<title>The Blackheath Poisonings</title>
+<link>ignoreme</link>
+<externallink>https://raw.githubusercontent.com/boomski/QualityTime/main/Shows/LBRY/The%20Blackheath%20Poisonings</externallink>
+<thumbnail>https://artworks.thetvdb.com/banners/posters/91631-2.jpg</thumbnail> 
+</item>  
  
 <item>
 <title>Het Pleintje</title>
@@ -77,13 +126,6 @@
 <thumbnail>https://i.imgur.com/LmxqD7b.jpg</thumbnail>  
 </item>
  
-<item>
-<title>Klondike (2014)</title>
-<link>ignoreme</link>
-<externallink></externallink>
-<thumbnail>https://i.imgur.com/lkKXg0e.jpg</thumbnail>  
-</item>  
-
 <item>
 <title>Skulden</title>
 <link>ignoreme</link>
@@ -267,13 +309,6 @@
 </item> 
 
 <item>
-<title>Maigret (1991)</title>
-<link>ignoreme</link>
-<externallink></externallink>
-<thumbnail>https://artworks.thetvdb.com/banners/posters/85167-2.jpg</thumbnail>  
-</item> 
- 
-<item>
 <title>The Last Enemy</title>
 <link>ignoreme</link>
 <externallink>https://raw.githubusercontent.com/boomski/QualityTime/main/Shows/LBRY/The%20Last%20Enemy</externallink>
@@ -287,20 +322,6 @@
 <thumbnail>https://i.imgur.com/uTE3X3X.jpg</thumbnail>  
 </item>  
  
-<item>
-<title>Savages</title>
-<link>ignoreme</link>
-<externallink></externallink>
-<thumbnail>https://artworks.thetvdb.com/banners/posters/5d8938a2dacc5.jpg</thumbnail>  
-</item> 
- 
-<item>
-<title>The Typist</title>
-<link>ignoreme</link>
-<externallink>https://raw.githubusercontent.com/boomski/QualityTime/main/Shows/LBRY/The%20Typist</externallink>
-<thumbnail>https://i.imgur.com/aV1oZNO.jpg</thumbnail>  
-</item>  
-  
 <item>
 <title>VRT Documentaires</title>
 <link>ignoreme</link>
@@ -362,13 +383,6 @@
 <link>ignoreme</link>
 <externallink>https://raw.githubusercontent.com/boomski/QualityTime/main/Shows/YOUTUBE/Razvedchitsy</externallink>
 <thumbnail>https://artworks.thetvdb.com/banners/posters/269534-1.jpg</thumbnail> 
-</item> 
-
-<item>
-<title>The Blackheath Poisonings</title>
-<link>ignoreme</link>
-<externallink>https://raw.githubusercontent.com/boomski/QualityTime/main/Shows/LBRY/The%20Blackheath%20Poisonings</externallink>
-<thumbnail>https://artworks.thetvdb.com/banners/posters/91631-2.jpg</thumbnail> 
 </item>  
  
 <item>
@@ -509,23 +523,10 @@
 </item> 
  
 <item>
-<title>Callboys</title>
-<link>ignoreme</link>  
-<externallink></externallink>
-<fanart>https://i.imgur.com/nrEtPaz.jpg</fanart>
-</item> 
- 
-<item>
 <title>Trouble in Store</title>
 <link>ignoreme</link>  
 <externallink>https://raw.githubusercontent.com/boomski/QualityTime/main/Shows/YOUTUBE/Trouble%20in%20Store</externallink>
 <fanart>https://www.thetvdb.com/banners/fanart/original/253267-1.jpg</fanart>
 </item> 
  
-<item>
-<title>De Partizanen</title>
-<link>ignoreme</link>  
-<externallink>https://raw.githubusercontent.com/boomski/QualityTime/main/Shows/LBRY/De%20Partizanen</externallink>
-<fanart>https://i.imgur.com/fuWjbbi.jpg</fanart>
-</item>  
 </items>
