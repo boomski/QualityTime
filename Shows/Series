@@ -41,6 +41,13 @@
 <externallink>https://raw.githubusercontent.com/boomski/QualityTime/main/Shows/LBRY/Callboys</externallink>
 <fanart>https://i.imgur.com/nrEtPaz.jpg</fanart>
 </item>  
+
+<item>
+<title>Zhukov</title>
+<link>ignoreme</link>
+<externallink>https://raw.githubusercontent.com/boomski/QualityTime/main/Shows/LBRY/Zhukov</externallink>
+<thumbnail>https://i.imgur.com/IZVtPDF.jpg</thumbnail> 
+</item>  
  
 <item>
 <title>Savages</title>
@@ -279,14 +286,7 @@
 <externallink>https://raw.githubusercontent.com/boomski/QualityTime/main/Shows/LBRY/Hamilton-(2020)</externallink>
 <thumbnail>https://i.imgur.com/uUQGoHN.jpg</thumbnail>  
 </item>  
-
-<item>
-<title>Wolfseinde</title>
-<link>ignoreme</link>
-<externallink>https://raw.githubusercontent.com/boomski/QualityTime/main/Shows/MAIL.RU/Wolfseinde</externallink>
-<thumbnail>https://i.imgur.com/v9EUJWA.jpg</thumbnail>  
-</item>  
- 
+  
 <item>
 <title>Box 21</title>
 <link>ignoreme</link>
@@ -320,6 +320,27 @@
 <link>ignoreme</link>
 <externallink>https://raw.githubusercontent.com/boomski/QualityTime/main/Shows/LBRY/The%20Last%20Enemy</externallink>
 <thumbnail>https://i.imgur.com/s4vd6wt.jpg</thumbnail>  
+</item> 
+ 
+<item>
+<title>Falcón</title>
+<link>ignoreme</link>
+<externallink>https://raw.githubusercontent.com/boomski/QualityTime/main/Shows/LBRY/Falc%C3%B3n</externallink>
+<thumbnail>https://i.imgur.com/L5CvadW.jpg</thumbnail> 
+</item>  
+ 
+<item>
+<title>Flikken Maastricht</title>
+<link>ignoreme</link>
+<externallink>https://raw.githubusercontent.com/boomski/QualityTime/main/Shows/LBRY/Flikken%20Maastricht</externallink>
+<thumbnail>https://i.imgur.com/X2IOznu.jpg</thumbnail> 
+</item> 
+ 
+<item>
+<title>Bake Off @ Home</title>
+<link>ignoreme</link>
+<externallink>https://raw.githubusercontent.com/boomski/QualityTime/main/Shows/LBRY/Bake%20Off%20%40%20Home</externallink>
+<thumbnail>https://i.imgur.com/mazwf1F.jpg</thumbnail> 
 </item>  
  
 <item>
@@ -328,14 +349,7 @@
 <externallink>https://raw.githubusercontent.com/boomski/QualityTime/main/Shows/LBRY/Thygesen</externallink>
 <thumbnail>https://i.imgur.com/uTE3X3X.jpg</thumbnail>  
 </item>  
- 
-<item>
-<title>VRT Documentaires</title>
-<link>ignoreme</link>
-<externallink>https://raw.githubusercontent.com/boomski/QualityTime/main/Shows/MAIL.RU/VRT%20Documentaries</externallink>
-<thumbnail>https://i.imgur.com/utuph6S.jpg</thumbnail>  
-</item> 
- 
+
 <item>
 <title>Sky Court</title>
 <link>ignoreme</link>
@@ -391,41 +405,6 @@
 <externallink>https://raw.githubusercontent.com/boomski/QualityTime/main/Shows/YOUTUBE/Razvedchitsy</externallink>
 <thumbnail>https://artworks.thetvdb.com/banners/posters/269534-1.jpg</thumbnail> 
 </item>  
- 
-<item>
-<title>Keuringsdienst van Waarde</title>
-<link>ignoreme</link>
-<externallink>https://raw.githubusercontent.com/boomski/QualityTime/main/Shows/MAIL.RU/Keuringsdienst%20van%20Waarde</externallink>
-<thumbnail>https://i.imgur.com/mazWa8j.jpg</thumbnail> 
-</item>  
- 
-<item>
-<title>Zhukov</title>
-<link>ignoreme</link>
-<externallink>https://raw.githubusercontent.com/boomski/QualityTime/main/Shows/YOUTUBE/Zhukov</externallink>
-<thumbnail>https://artworks.thetvdb.com/banners/posters/255498-3.jpg</thumbnail> 
-</item>  
- 
-<item>
-<title>Falcón</title>
-<link>ignoreme</link>
-<externallink>https://raw.githubusercontent.com/boomski/QualityTime/main/Shows/LBRY/Falc%C3%B3n</externallink>
-<thumbnail>https://i.imgur.com/L5CvadW.jpg</thumbnail> 
-</item>  
- 
-<item>
-<title>Flikken Maastricht</title>
-<link>ignoreme</link>
-<externallink>https://raw.githubusercontent.com/boomski/QualityTime/main/Shows/LBRY/Flikken%20Maastricht</externallink>
-<thumbnail>https://i.imgur.com/X2IOznu.jpg</thumbnail> 
-</item> 
- 
-<item>
-<title>Bake Off @ Home</title>
-<link>ignoreme</link>
-<externallink>https://raw.githubusercontent.com/boomski/QualityTime/main/Shows/LBRY/Bake%20Off%20%40%20Home</externallink>
-<thumbnail>https://i.imgur.com/mazwf1F.jpg</thumbnail> 
-</item>  
 
 <item>
 <title>DRIVE</title>
@@ -433,13 +412,6 @@
 <externallink>https://raw.githubusercontent.com/boomski/QualityTime/main/Shows/YOUTUBE/%D0%94%D1%80%D0%B0%D0%B9%D0%B2%20(2020)</externallink>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/rS8aLcZIQXmq7IcxwY80WuNTLQ3.jpg</thumbnail> 
 </item> 
- 
-<item>
-<title>De Container Cup</title>
-<link>ignoreme</link>
-<externallink>https://raw.githubusercontent.com/boomski/QualityTime/main/Shows/YOUTUBE/De-Container-Cup</externallink>
-<thumbnail>https://artworks.thetvdb.com/banners/series/380538/posters/5eaa901193689.jpg</thumbnail> 
-</item>  
  
 <item>
 <title>Angel's Heart</title>
@@ -523,6 +495,13 @@
 </item> 
  
 <item>
+<title>Trouble in Store</title>
+<link>ignoreme</link>  
+<externallink>https://raw.githubusercontent.com/boomski/QualityTime/main/Shows/YOUTUBE/Trouble%20in%20Store</externallink>
+<fanart>https://www.thetvdb.com/banners/fanart/original/253267-1.jpg</fanart>
+</item> 
+
+<item>
 <title>De Slimste Mens Ter Wereld</title>
 <link>ignoreme</link>  
 <externallink>https://raw.githubusercontent.com/boomski/QualityTime/main/Shows/MAIL.RU/De%20Slimste%20Mens%20ter%20Wereld</externallink>
@@ -530,10 +509,31 @@
 </item> 
  
 <item>
-<title>Trouble in Store</title>
-<link>ignoreme</link>  
-<externallink>https://raw.githubusercontent.com/boomski/QualityTime/main/Shows/YOUTUBE/Trouble%20in%20Store</externallink>
-<fanart>https://www.thetvdb.com/banners/fanart/original/253267-1.jpg</fanart>
+<title>VRT Documentaires</title>
+<link>ignoreme</link>
+<externallink>https://raw.githubusercontent.com/boomski/QualityTime/main/Shows/MAIL.RU/VRT%20Documentaries</externallink>
+<thumbnail>https://i.imgur.com/utuph6S.jpg</thumbnail>  
+</item>  
+ 
+<item>
+<title>Wolfseinde</title>
+<link>ignoreme</link>
+<externallink>https://raw.githubusercontent.com/boomski/QualityTime/main/Shows/MAIL.RU/Wolfseinde</externallink>
+<thumbnail>https://i.imgur.com/v9EUJWA.jpg</thumbnail>  
+</item>  
+ 
+<item>
+<title>Keuringsdienst van Waarde</title>
+<link>ignoreme</link>
+<externallink>https://raw.githubusercontent.com/boomski/QualityTime/main/Shows/MAIL.RU/Keuringsdienst%20van%20Waarde</externallink>
+<thumbnail>https://i.imgur.com/mazWa8j.jpg</thumbnail> 
+</item>  
+
+<item>
+<title>De Container Cup</title>
+<link>ignoreme</link>
+<externallink>https://raw.githubusercontent.com/boomski/QualityTime/main/Shows/YOUTUBE/De-Container-Cup</externallink>
+<thumbnail>https://i.imgur.com/oMCHRSB.jpg</thumbnail> 
 </item> 
  
 </items>
