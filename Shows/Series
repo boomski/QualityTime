@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<items> 
-<item>
-<title>Borges</title>
-<link>ignoreme</link>
-<externallink>https://raw.githubusercontent.com/boomski/QualityTime/main/Shows/LBRY/Borges</externallink>
-<thumbnail>https://i.imgur.com/6kKUai1.jpg</thumbnail>  
-</item>  
+<items>
  
 <item>
 <title>La Piovra</title>
