@@ -1,5 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
+<item>
+<title>Epidemiya</title>
+<link>ignoreme</link>
+<externallink>https://raw.githubusercontent.com/boomski/QualityTime/main/Shows/LBRY/Epidemiya</externallink>
+<thumbnail>https://i.imgur.com/Q4DTkP0.jpg</thumbnail>  
+</item> 
+ 
+<item>
+<title>Fawlty Towers</title>
+<link>ignoreme</link>
+<externallink>https://raw.githubusercontent.com/boomski/QualityTime/main/Shows/LBRY/Fawlty%20Towers</externallink>
+<thumbnail>https://i.imgur.com/UuxIKCj.jpg</thumbnail>  
+</item> 
  
 <item>
 <title>La Piovra</title>
@@ -8,13 +21,6 @@
 <thumbnail>https://i.imgur.com/5KaR3sV.jpg</thumbnail>  
 </item> 
  
-<item>
-<title>Epidemiya</title>
-<link>ignoreme</link>
-<externallink>https://raw.githubusercontent.com/boomski/QualityTime/main/Shows/LBRY/Epidemiya</externallink>
-<thumbnail>https://i.imgur.com/Q4DTkP0.jpg</thumbnail>  
-</item>
-
 <item>
 <title>The Deceived</title>
 <link>ignoreme</link>
