@@ -5,31 +5,34 @@
 <link>https://cdn.lbryplayer.xyz/api/v3/streams/free/SI19x1/d21aee2ef9ca8d44014f0f97a3c2444d59f22e54/4b001e</link>
 </item>
 <item>
-<title>Spitting Image S19E01.youtube</title>         
-<utube>O8aPneHQVmw</utube>
-</item>  
-<item>
 <title>Spitting Image S19E02.lbry</title>         
 <link>https://cdn.lbryplayer.xyz/api/v3/streams/free/Spitting-Image---S19E02/6333738122ad93cb73432088ba7e3fcef32d0775/55c2c1</link>
 </item> 
 <item>
-<title>Spitting Image S19E02.youtube</title>         
-<utube>Ow3H3sKmQ_0</utube>
-</item>  
-<item>
 <title>Spitting Image S19E03.lbry</title>         
 <link>https://cdn.lbryplayer.xyz/api/v3/streams/free/SI19x3/4bd0bdc32488e04ae521a5f07eb857769591b6eb/d60188</link>
-</item>
-<item>
-<title>Spitting Image S19E03.youtube</title>         
-<utube>ucJJHDAm3uU</utube>
-</item>  
+</item> 
 <item>
 <title>Spitting Image S19E04.lbry.v2</title>         
 <link>https://cdn.lbryplayer.xyz/api/v3/streams/free/SI19x4/754d0cf2ef1870a984ef42f6feaa2d0b984680b5/a23fae</link>
 </item>  
+ 
+  
+  
+<item>
+<title>Spitting Image S19E01.youtube</title>         
+<utube>O8aPneHQVmw</utube>
+</item> 
+<item>
+<title>Spitting Image S19E02.youtube</title>         
+<utube>Ow3H3sKmQ_0</utube>
+</item> 
+<item>
+<title>Spitting Image S19E03.youtube</title>         
+<utube>ucJJHDAm3uU</utube>
+</item>
 <item>
 <title>Spitting Image S19E04.youtube</title>         
 <utube>pbarspI5pWc</utube>
-</item>  
+</item>   
 <items>
