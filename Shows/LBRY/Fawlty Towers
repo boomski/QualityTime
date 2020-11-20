@@ -14,7 +14,7 @@
 </item>
 <item>
 <title>Fawlty Towers S01E04</title>         
-<link></link>
+<link>https://cdn.lbryplayer.xyz/api/v3/streams/free/FawltyTowers1x4/0a30808904de6edf1b2a618c340a80a7c8f9d9b5/739edc</link>
 </item>
 <item>
 <title>Fawlty Towers S01E05</title>         
@@ -60,5 +60,9 @@
 <item>
 <title>Fawlty Towers S01E03.mail.ru</title>         
 <urlsolve>https://my.mail.ru/video/embed/9160051480038736042</urlsolve>
+</item> 
+<item>
+<title>Fawlty Towers S01E04.mail.ru</title>         
+<urlsolve>https://my.mail.ru/video/embed/9160051480038736045</urlsolve>
 </item>  
 <items>
