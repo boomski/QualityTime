@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
- 
+<item>
+<title>Zwanze Derby</title>
+<link>ignoreme</link>
+<externallink>https://raw.githubusercontent.com/boomski/QualityTime/main/Shows/LBRY/Zwanze%20Derby</externallink>
+<thumbnail>https://i.imgur.com/YIatyRl.jpg</thumbnail>  
+</item>  
  
 <item>
 <title>Fawlty Towers</title>
