@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 <item>
+<title>Methanol</title>
+<link>ignoreme</link>
+<externallink>https://raw.githubusercontent.com/boomski/QualityTime/main/Shows/LBRY/Methanol</externallink>
+<thumbnail>https://i.imgur.com/4B5xlRw.jpg</thumbnail>  
+</item> 
+ 
+<item>
 <title>Zwanze Derby</title>
 <link>ignoreme</link>
 <externallink>https://raw.githubusercontent.com/boomski/QualityTime/main/Shows/LBRY/Zwanze%20Derby</externallink>
