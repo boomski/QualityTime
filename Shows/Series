@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 <item>
+<title>Charlie Chaplin</title>
+<link>ignoreme</link>
+<externallink>https://raw.githubusercontent.com/boomski/QualityTime/main/Shows/LBRY/Charlie%20Chaplin</externallink>
+<thumbnail>https://i.imgur.com/vwbAcSV.jpg</thumbnail>  
+</item> 
+ 
+<item>
 <title>A Trap for Cinderella</title>
 <link>ignoreme</link>
 <externallink>https://raw.githubusercontent.com/boomski/QualityTime/main/Shows/LBRY/A%20Trap%20for%20Cinderella</externallink>
