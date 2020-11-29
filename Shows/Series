@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 <item>
+<title>Profitörerna</title>
+<link>ignoreme</link>
+<externallink>https://raw.githubusercontent.com/boomski/QualityTime/main/Shows/LBRY/Profit%C3%B6rerna</externallink>
+<thumbnail>https://i.imgur.com/OZSPepZ.jpg</thumbnail>  
+</item>  
+ 
+<item>
 <title>Skulden</title>
 <link>ignoreme</link>
 <externallink>https://raw.githubusercontent.com/boomski/QualityTime/main/Shows/LBRY/Skulden</externallink>
