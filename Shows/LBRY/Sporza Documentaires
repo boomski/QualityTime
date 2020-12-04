@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 <item>
+<title>sporza.docu.s1953e01.mail.ru</title>         
+<urlsolve></urlsolve>
+</item>  
+<item>
 <title>sporza.docu.s2000e01.mail.ru</title>         
 <urlsolve>https://my.mail.ru/video/embed/9160051480038736108</urlsolve>
 </item>
