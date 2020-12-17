@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<items>  
+<items> 
+   
 <item>
 <title>Der Galgensteiger (1978).deu.youtube</title>         
 <utube>6oXqaIH_Tho</utube>
 <thumbnail>https://i.imgur.com/pgHTm7y.jpg</thumbnail>  
 </item>  
-   
 <item>
-<title>Duell in der Nacht (2008).deu.lbry</title>         
-<utube></utube>
+<title>Duell in der Nacht (2008).deu.mail.ru</title>  6205       
+<urlsolve></urlsolve>
 <thumbnail>https://i.imgur.com/BGXnt3e.png</thumbnail>    
-</item>  
-  
-<item>
-<title>Duell in der Nacht (2008).deu.lbry</title>         
-<link>https://cdn.lbryplayer.xyz/api/v3/streams/free/6205/c8bacee6014132a68ad4fb5ba4a4314ed1dc9176/8fe046</link>
-<thumbnail>https://i.imgur.com/BGXnt3e.png</thumbnail>    
-</item>  
-   
+</item>     
 </items>
