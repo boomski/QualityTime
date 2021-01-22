@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/c3o5GEf.jpg" group-title="België",Bobbejaan Schoepen
-plugin://plugin.video.youtube/play/?playlist_id=PLmDHHMBHCDICN0NNxBQFFU4M4svlirY9L
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2e8sRGt.jpg" group-title="België",Bobby Prins
-plugin://plugin.video.youtube/play/?playlist_id=PLNoUD2MzxyX0pPQ9Tya38-JSQcI22Yhfh
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c3o5GEf.jpg" group-title="Bobbejaan Schoepen",Bobbejaan Schoepen - Grijze haren ( 1960 )
+plugin://plugin.video.youtube/play/?video_id=19VS3tph6l4 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2e8sRGt.jpg" group-title="Bobby Prins",Bobby Prins - Zo helder blauw (2011)
+plugin://plugin.video.youtube/play/?video_id=TpoDclQvWqI 
 
