@@ -1,3 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<items>
+<item>
+<title>Bobbejaan Schoepen</title>
+<link>ignoreme</link>
+<externallink></externallink>
+<thumbnail>https://i.imgur.com/c3o5GEf.jpg</thumbnail>  
+</item>
+<item>
+<title>Bobby Prins</title>
+<link>ignoreme</link>
+<externallink></externallink>
+<thumbnail>https://i.imgur.com/2e8sRGt.jpg</thumbnail>  
+</item>
+<items>
+
+
+
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c3o5GEf.jpg" group-title="Bobbejaan Schoepen",Bobbejaan Schoepen - Grijze haren ( 1960 )
 plugin://plugin.video.youtube/play/?video_id=19VS3tph6l4 
