@@ -14,11 +14,3 @@
 </item>
 <items>
 
-
-
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/c3o5GEf.jpg" group-title="Bobbejaan Schoepen",Bobbejaan Schoepen - Grijze haren ( 1960 )
-plugin://plugin.video.youtube/play/?video_id=19VS3tph6l4 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2e8sRGt.jpg" group-title="Bobby Prins",Bobby Prins - Zo helder blauw (2011)
-plugin://plugin.video.youtube/play/?video_id=TpoDclQvWqI 
-
