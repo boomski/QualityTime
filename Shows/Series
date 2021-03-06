@@ -9,9 +9,16 @@
 </item>
  
 <item>
-<title>MasterChef Singapore</title>
+<title>Maisonette</title>
 <link>ignoreme</link>
 <externallink></externallink>
+<thumbnail>https://i.imgur.com/PMcQcT4.jpg</thumbnail>  
+</item> 
+ 
+<item>
+<title>MasterChef Singapore</title>
+<link>ignoreme</link>
+<externallink>https://raw.githubusercontent.com/boomski/QualityTime/main/Shows/LBRY/MasterChef%20Singapore</externallink>
 <thumbnail>https://i.imgur.com/rz8OhN4.jpg</thumbnail>  
 </item>
  
