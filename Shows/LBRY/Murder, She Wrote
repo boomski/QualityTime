@@ -27,10 +27,9 @@
 <item>
 <title>Murder, She Wrote s01e04.mail.ru</title>         
 <urlsolve></urlsolve>
-<item>
+</item>
 <title>Murder, She Wrote s01e04.lbry.en</title>         
-<link>https://cdn.lbryplayer.xyz/api/v4/streams/free/0105/f66694e415a629aef310260d6401a01f38bcdab6/ae068a</link>
-</item>  
+<link>https://cdn.lbryplayer.xyz/api/v4/streams/free/0105/f66694e415a629aef310260d6401a01f38bcdab6/ae068a</link>  
 </item>
 <item>
 <title>Murder, She Wrote s01e05.mail.ru</title>         
@@ -326,7 +325,7 @@
 </item>  
 <item>
 <title>Murder, She Wrote s04e07.mail.ru</title>         
-<urlsolve></urlsolve>
+<urlsolve>https://my.mail.ru/video/embed/9160051480038737003</urlsolve>
 </item> 
 <item>
 <title>Murder, She Wrote s04e08.mail.ru</title>         
