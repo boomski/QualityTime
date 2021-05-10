@@ -36,10 +36,7 @@
 <title>The Mole (BE) S09E09.mail.ru</title>         
 <urlsolve></urlsolve>
 </item>  
-<item>
-<title>The Mole (BE) S09E10.mail.ru</title>         
-<urlsolve></urlsolve>
-</item>
+
   
 <item>
 <title>The Mole (BE) S08E01.mail.ru</title>         
@@ -262,14 +259,10 @@
 </item>
 <item>
 <title>The Mole (BE) S09E08.lbry</title>         
-<link></link>
+<link>https://cdn.lbryplayer.xyz/api/v3/streams/free/0192/2a825c3db2e7e4211e130b52fc1266fc4f822261/8d951f</link>
 </item>
 <item>
 <title>The Mole (BE) S09E09.lbry</title>         
-<link></link>
-</item>  
-<item>
-<title>The Mole (BE) S09E10.lbry</title>         
 <link></link>
 </item>  
 <items>
