@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
+ 
+ 
+<item>
+<title>Thuisfront</title>
+<link>ignoreme</link>
+<externallink>https://raw.githubusercontent.com/boomski/QualityTime/main/Shows/LBRY/Thuisfront</externallink>
+<thumbnail>https://i.imgur.com/zVO1Ao3.jpg</thumbnail>  
+</item>
+ 
 <item>
 <title>Huss</title>
 <link>ignoreme</link>
