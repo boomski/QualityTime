@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
+ 
+<item>
+<title>Gullregn</title>
+<link>ignoreme</link>
+<externallink>https://raw.githubusercontent.com/boomski/QualityTime/main/Shows/LBRY/Gullregn</externallink>
+<thumbnail>https://i.imgur.com/3vW4TON.jpg</thumbnail>  
+</item> 
+ 
 <item>
 <title>Gold Diggers</title>
 <link>ignoreme</link>
