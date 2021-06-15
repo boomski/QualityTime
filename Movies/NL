@@ -115,6 +115,13 @@
 <thumbnail></thumbnail>  
 <urlsolve></urlsolve>  
 </item>
+ 
+
+
+
+
+
+ 
 <item>
 <title>Saving Private Ryan (1998).nld.lbry</title>       
 <thumbnail>https://i.imgur.com/TEF575W.jpg</thumbnail>  
@@ -146,9 +153,19 @@
 <link>https://cdn.lbryplayer.xyz/api/v4/streams/free/477072/4bcd577dc37016dae4b3bb5e730c11dd5940d777/e9e66f</link>  
 </item> 
 <item>
+<title>Duelles (2018).nld</title> 477072        
+<thumbnail>https://i.imgur.com/sDtUBnB.jpg</thumbnail>  
+<urlsolve>https://my.mail.ru/video/embed/9131907362506932823</urlsolve>  
+</item> 
+<item>
 <title>Carmen y Lola (2018).nld.lbry</title>
 <thumbnail>https://i.imgur.com/Ujaw6is.jpg</thumbnail>  
 <link>https://cdn.lbryplayer.xyz/api/v4/streams/free/519091/81eb050304018fbb1596a34e430094fb013f037b/004e6f</link> 
+</item> 
+<item>
+<title>Carmen y Lola (2018).nld</title> 519091    
+<thumbnail>https://i.imgur.com/Ujaw6is.jpg</thumbnail>  
+<urlsolve>https://my.mail.ru/video/embed/9131907362506932824</urlsolve>  
 </item> 
 <item>
 <title>Jackie Brown (1997).nld.lbry</title>
@@ -159,7 +176,12 @@
 <title>Pajaros de verano (2018).nld.lbry</title> 
 <link>https://cdn.lbryplayer.xyz/api/v4/streams/free/438146/705566e07d28314fcdd3c06b525466d51d799391/0feec5</link>
 <thumbnail>https://i.imgur.com/DAPOwr3.jpg</thumbnail>  
-</item>  
+</item> 
+<item>
+<title>Pajaros de verano (2018).nld</title> 438146    
+<thumbnail>https://i.imgur.com/Ujaw6is.jpg</thumbnail>  
+<urlsolve>https://my.mail.ru/video/embed/9131907362506932822</urlsolve>  
+</item> 
 <item>
 <title>Alone We Fight (2018).nld</title> 559578.32
 <thumbnail>https://i.imgur.com/Ubq71Om.jpg</thumbnail>
