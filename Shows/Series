@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
  
+ 
+ 
+<item>
+<title>Special Episodes</title>
+<link>ignoreme</link>
+<externallink>https://raw.githubusercontent.com/boomski/QualityTime/main/Shows/LBRY/Special%20Episodes</externallink>
+<thumbnail>https://i.imgur.com/gMLOU7O.jpg</thumbnail>  
+</item>
+ 
 <item>
 <title>Politie Dienst Infra</title>
 <link>ignoreme</link>
