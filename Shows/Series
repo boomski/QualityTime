@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
  
- 
- 
 <item>
 <title>Special Episodes</title>
 <link>ignoreme</link>
@@ -219,6 +217,13 @@
 <externallink>https://raw.githubusercontent.com/boomski/QualityTime/main/Shows/LBRY/Life%20Sentence</externallink>
 <thumbnail>https://i.imgur.com/YmAFoRK.jpg</thumbnail>  
 </item>
+ 
+<item>
+<title>Voetbal: CONCACAF Gold Cup</title>
+<link>ignoreme</link>
+<externallink>https://raw.githubusercontent.com/boomski/QualityTime/main/Shows/LBRY/Voetbal%3A%20CONCACAF%20Gold%20Cup</externallink>
+<thumbnail>https://i.imgur.com/qkK8OxP.jpg</thumbnail>  
+</item>  
  
 <item>
 <title>Voetbal: CONMEBOL Copa America</title>
