@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
- 
 <item>
 <title>Special Episodes</title>
 <link>ignoreme</link>
 <externallink>https://raw.githubusercontent.com/boomski/QualityTime/main/Shows/LBRY/Special%20Episodes</externallink>
 <thumbnail>https://i.imgur.com/gMLOU7O.jpg</thumbnail>  
+</item>
+ 
+<item>
+<title>The Tour: The Legend of the Race</title>
+<link>ignoreme</link>
+<externallink>https://raw.githubusercontent.com/boomski/QualityTime/main/Shows/LBRY/The%20Tour%3A%20The%20Legend%20of%20the%20Race</externallink>
+<thumbnail>https://i.imgur.com/oI4DPoK.jpg</thumbnail>  
 </item>
  
 <item>
